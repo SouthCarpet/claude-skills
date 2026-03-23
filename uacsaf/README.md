@@ -1,4 +1,4 @@
-# uacsaf
+# UACSAF - Unified Advanced Code and System Analysis Framework
 
 Debugging skill for Claude Code. You call `/uacsaf`, it figures out what stack you're running (React, Python, C++, PHP, Go, whatever), and then does a proper root-cause analysis instead of guessing.
 
